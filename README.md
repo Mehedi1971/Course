@@ -1,1 +1,1 @@
-# Course
+Course
